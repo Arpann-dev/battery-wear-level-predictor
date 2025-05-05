@@ -20,4 +20,9 @@ This project uses a K-Nearest Neighbors (KNN) regression model to predict batter
 3. Get the predicted battery wear level.
 
 ## 🧪 Sample Output
+Prediction is: [75.1, 67.3, ...]
+MSE is: 3.27
+Enter the battery age: 2
+Enter the charge cycle: 1.5
+The battery wear level is: 72.54%
 
